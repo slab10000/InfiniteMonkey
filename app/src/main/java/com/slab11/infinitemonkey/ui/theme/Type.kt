@@ -1,4 +1,4 @@
-package com.example.infinitemonkey.ui.theme
+package com.slab11.infinitemonkey.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

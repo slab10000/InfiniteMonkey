@@ -1,4 +1,4 @@
-package com.example.infinitemonkey.ui.theme
+package com.slab11.infinitemonkey.ui.theme
 
 import android.app.Activity
 import android.os.Build
