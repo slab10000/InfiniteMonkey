@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
                         composable(
                             route = Screen.MainScreen.route
                         ){
-                            LandingScreen(navController = navController)
+                            LandingScreen()
                         }
 
                     }
